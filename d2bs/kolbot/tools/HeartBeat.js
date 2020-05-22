@@ -9,6 +9,7 @@ function main() {
 	include("json2.js");
 	include("common/misc.js");
 	include("common/util.js");
+	include("modules/sdk.js ");
 	D2Bot.init();
 	print("Heartbeat loaded");
 

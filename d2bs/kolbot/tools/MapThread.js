@@ -797,6 +797,7 @@ function main() {
 	include("json2.js");
 	include("common/attack.js");
 	include("common/pather.js");
+	include("modules/sdk.js ");
 	load("tools/maphelper.js");
 	print("ÿc9Map Thread Loaded.");
 

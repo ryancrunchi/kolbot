@@ -14,6 +14,7 @@ function main() {
 	include("common/util.js");
 	include("common/Prototypes.js");
 	include("common/Town.js");
+	include("modules/sdk.js ");
 
 	Config.init();
 

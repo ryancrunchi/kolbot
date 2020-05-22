@@ -28,8 +28,7 @@ include("common/Prototypes.js");
 include("common/Runewords.js");
 include("common/Storage.js");
 include("common/Town.js");
-
-const sdk = require('../libs/modules/sdk')
+include("modules/sdk.js ");
 
 function main() {
 	var i, mercHP, ironGolem, tick, merc,

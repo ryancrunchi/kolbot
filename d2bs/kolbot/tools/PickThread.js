@@ -21,6 +21,7 @@ include("common/Prototypes.js");
 include("common/Runewords.js");
 include("common/Storage.js");
 include("common/Town.js");
+include("modules/sdk.js ");
 
 function main() {
 	print("ÿc9Pick Thread Loaded.");
